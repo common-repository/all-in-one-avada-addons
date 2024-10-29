@@ -1,0 +1,1720 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: All in One Avada Addons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-18 14:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: avada_addons"
+
+#: template/addons-woo-on-sales-carousel.php:165 
+#: template/addons-post-carousel.php:371 
+#: template/addons-woo-best-sellers-carousel.php:164 
+#: deprecated/addons-post-archive-page.php:379
+msgid "Add a class to the wrapping HTML element."
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:173 
+#: template/addons-post-carousel.php:379 
+#: template/addons-woo-best-sellers-carousel.php:172
+msgid "Add an ID to the wrapping HTML element."
+msgstr ""
+
+#: template/template-woo-product.php:716 template/template-woo-product.php:1854
+msgid ""
+"Adds an HTML wrapper class so you can modify the specific output with custom "
+"CSS."
+msgstr ""
+
+#: template/global-layout-product.php:40
+msgid "Aggiungi"
+msgstr ""
+
+#: inc/aio-redux-core/config/config.php:49 
+#: inc/aio-redux-core/config/config.php:50
+msgid "Aio Setting"
+msgstr ""
+
+#: deprecated/addons-order-and-view-filtering.php:63
+msgid "All"
+msgstr ""
+
+#. Name of the plugin
+msgid "All in One Avada Addons"
+msgstr ""
+
+#: inc/aio-redux-core/config/config.php:274
+msgid ""
+"Allow unfiltered upload. Please don't leave it on yes permanently for "
+"security reason."
+msgstr ""
+
+#: template/template-woo-product.php:705 
+#: template/template-woo-product.php:1843 
+#: template/addons-post-carousel.php:212 
+#: deprecated/addons-post-archive-page.php:301
+msgid "Ascending"
+msgstr ""
+
+#: template/addons-post-carousel.php:237 
+#: deprecated/addons-post-archive-page.php:326
+msgid "Author"
+msgstr ""
+
+#: template/template-woo-product.php:731 template/template-woo-product.php:873 
+#: template/template-woo-product.php:1869 
+#: template/template-woo-product.php:2011 
+#: template/addons-woo-on-sales-carousel.php:77 
+#: template/addons-post-carousel.php:254 
+#: template/addons-woo-best-sellers-carousel.php:76 
+#: deprecated/addons-post-archive-page.php:498
+msgid "Auto"
+msgstr ""
+
+#: template/addons-post-carousel.php:279
+msgid "Autoplay"
+msgstr ""
+
+#: template/template-woo-product.php:778 template/template-woo-product.php:912 
+#: template/template-woo-product.php:1070 
+#: template/template-woo-product.php:1215 
+#: template/template-woo-product.php:1357 
+#: template/template-woo-product.php:1594 
+#: template/template-woo-product.php:1916 
+#: template/template-woo-product.php:2049 
+#: template/template-woo-product.php:2204 
+#: template/template-woo-product.php:2347 
+#: template/template-woo-product.php:2487 
+#: template/template-woo-product.php:2719 
+#: deprecated/addons-post-archive-page.php:424 
+#: deprecated/addons-post-archive-page.php:511 
+#: deprecated/addons-post-archive-page.php:565 
+#: deprecated/addons-post-archive-page.php:631
+msgid "Background Color"
+msgstr ""
+
+#: template/template-woo-product.php:755 template/template-woo-product.php:1893
+msgid "Best Selling"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:134 
+#: template/addons-post-carousel.php:339 
+#: template/addons-woo-best-sellers-carousel.php:133
+msgid "Border"
+msgstr ""
+
+#: template/template-woo-product.php:843 template/template-woo-product.php:1981
+msgid "Border Color"
+msgstr ""
+
+#: template/template-woo-product.php:851 
+#: template/template-woo-product.php:1660 
+#: template/template-woo-product.php:1989 
+#: template/template-woo-product.php:2785 
+#: deprecated/addons-post-archive-page.php:476 
+#: deprecated/addons-post-archive-page.php:681
+msgid "Border Radius"
+msgstr ""
+
+#: template/template-woo-product.php:830 template/template-woo-product.php:1968
+msgid "Border Size"
+msgstr ""
+
+#: template/template-woo-product.php:1564 
+#: template/template-woo-product.php:1576 
+#: template/template-woo-product.php:1586 
+#: template/template-woo-product.php:1598 
+#: template/template-woo-product.php:1606 
+#: template/template-woo-product.php:1614 
+#: template/template-woo-product.php:1622 
+#: template/template-woo-product.php:1630 
+#: template/template-woo-product.php:1643 
+#: template/template-woo-product.php:1656 
+#: template/template-woo-product.php:1669 
+#: template/template-woo-product.php:2690 
+#: template/template-woo-product.php:2702 
+#: template/template-woo-product.php:2711 
+#: template/template-woo-product.php:2723 
+#: template/template-woo-product.php:2731 
+#: template/template-woo-product.php:2739 
+#: template/template-woo-product.php:2747 
+#: template/template-woo-product.php:2755 
+#: template/template-woo-product.php:2768 
+#: template/template-woo-product.php:2781 
+#: template/template-woo-product.php:2794
+msgid "Button"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:635 
+#: deprecated/addons-post-archive-page.php:643 
+#: deprecated/addons-post-archive-page.php:651 
+#: deprecated/addons-post-archive-page.php:664 
+#: deprecated/addons-post-archive-page.php:677 
+#: deprecated/addons-post-archive-page.php:690
+msgid "Button Design"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:112 
+#: template/addons-woo-best-sellers-carousel.php:111
+msgid "Carousel Autoplay"
+msgstr ""
+
+#: template/template-woo-product.php:678
+msgid "Category"
+msgstr ""
+
+#: template/template-woo-product.php:792 
+#: template/template-woo-product.php:1930 
+#: deprecated/addons-post-archive-page.php:438
+msgid "Center"
+msgstr ""
+
+#: template/addons-post-carousel.php:446
+msgid "Choose if you want to show the continue symbol [...]"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:402
+msgid "Choose if you would to show the futured image of your posts."
+msgstr ""
+
+#: template/addons-post-carousel.php:151
+msgid "Choose no if you want to get all posts"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:113 
+#: template/addons-post-carousel.php:280 
+#: template/addons-woo-best-sellers-carousel.php:112
+msgid "Choose to autoplay the carousel."
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:135 
+#: template/addons-post-carousel.php:340 
+#: template/addons-woo-best-sellers-carousel.php:134
+msgid "Choose to enable a border around the images."
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:124 
+#: template/addons-post-carousel.php:329 
+#: template/addons-woo-best-sellers-carousel.php:123
+msgid ""
+"Choose to enable mouse drag control on the carousel. IMPORTANT: For easy "
+"draggability, when mouse scroll is activated, links will be disabled."
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:102 
+#: template/addons-post-carousel.php:318 
+#: template/addons-woo-best-sellers-carousel.php:101
+msgid "Choose to show navigation buttons on the carousel."
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:160 
+#: template/addons-post-carousel.php:366 
+#: template/addons-woo-best-sellers-carousel.php:159
+msgid ""
+"Choose to show or hide the element on small, medium or large screens. You "
+"can choose more than one at a time."
+msgstr ""
+
+#: template/addons-post-carousel.php:387
+msgid "Choose to show the button."
+msgstr ""
+
+#: template/addons-post-carousel.php:417
+msgid "Choose to show the content."
+msgstr ""
+
+#: template/addons-post-carousel.php:457
+msgid "Choose to show the image preview."
+msgstr ""
+
+#: template/addons-post-carousel.php:398
+msgid "Choose to show the title."
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:389 
+#: deprecated/addons-post-archive-page.php:405 
+#: deprecated/addons-post-archive-page.php:417 
+#: deprecated/addons-post-archive-page.php:428 
+#: deprecated/addons-post-archive-page.php:436 
+#: deprecated/addons-post-archive-page.php:459 
+#: deprecated/addons-post-archive-page.php:472 
+#: deprecated/addons-post-archive-page.php:485 
+#: deprecated/addons-post-archive-page.php:493
+msgid "Column Design"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:84 
+#: template/addons-post-carousel.php:300 
+#: template/addons-woo-best-sellers-carousel.php:83
+msgid "Column Spacing"
+msgstr ""
+
+#: template/template-woo-product.php:635 
+#: template/template-woo-product.php:1794 
+#: deprecated/addons-order-and-view-filtering.php:75
+msgid "Columns"
+msgstr ""
+
+#: template/template-woo-product.php:679
+msgid "Comma-separated list of category slugs."
+msgstr ""
+
+#: template/template-woo-product.php:693
+msgid "Comma-separated list of tag slugs."
+msgstr ""
+
+#: template/addons-post-carousel.php:427
+msgid "Content Color"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:569 
+#: deprecated/addons-post-archive-page.php:577 
+#: deprecated/addons-post-archive-page.php:585 
+#: deprecated/addons-post-archive-page.php:593 
+#: deprecated/addons-post-archive-page.php:606 
+#: deprecated/addons-post-archive-page.php:619 
+#: deprecated/addons-post-archive-page.php:627
+msgid "Content Design"
+msgstr ""
+
+#: template/template-woo-product.php:787 
+#: template/template-woo-product.php:1925 
+#: deprecated/addons-post-archive-page.php:433
+msgid "Controls the alignment of the content."
+msgstr ""
+
+#: template/template-woo-product.php:1661 
+#: template/template-woo-product.php:2786 
+#: deprecated/addons-post-archive-page.php:682
+msgid "Controls the border radius of the button."
+msgstr ""
+
+#: template/template-woo-product.php:831 template/template-woo-product.php:1969
+msgid "Controls the border size of the columns element."
+msgstr ""
+
+#: template/template-woo-product.php:1389 
+#: template/template-woo-product.php:1506 
+#: template/template-woo-product.php:2518 
+#: template/template-woo-product.php:2633
+msgid "Controls the color of the price, ex: #000."
+msgstr ""
+
+#: template/template-woo-product.php:1133 
+#: template/template-woo-product.php:2265
+msgid "Controls the color of the terms on hover, ex: #000."
+msgstr ""
+
+#: template/template-woo-product.php:1118 
+#: template/template-woo-product.php:2250
+msgid "Controls the color of the terms, ex: #000."
+msgstr ""
+
+#: template/template-woo-product.php:975 template/template-woo-product.php:2110
+msgid "Controls the color of the title on hover, ex: #000."
+msgstr ""
+
+#: template/template-woo-product.php:960 
+#: template/template-woo-product.php:2095 
+#: deprecated/addons-post-archive-page.php:529
+msgid "Controls the color of the title, ex: #000."
+msgstr ""
+
+#: template/template-woo-product.php:1603 
+#: template/template-woo-product.php:1619 
+#: template/template-woo-product.php:2728 
+#: template/template-woo-product.php:2744 
+#: deprecated/addons-post-archive-page.php:582 
+#: deprecated/addons-post-archive-page.php:640
+msgid "Controls the font color of the content, ex: #000."
+msgstr ""
+
+#: template/template-woo-product.php:1627 
+#: template/template-woo-product.php:2752 
+#: deprecated/addons-post-archive-page.php:648
+msgid ""
+"Controls the font size of the Button. Enter value including any valid CSS "
+"unit, ex: 20px."
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:574
+msgid ""
+"Controls the font size of the content. Enter value including any valid CSS "
+"unit, ex: 20px."
+msgstr ""
+
+#. URL for the link.
+#: template/template-woo-product.php:1374 
+#: template/template-woo-product.php:1491 
+#: template/template-woo-product.php:2503 
+#: template/template-woo-product.php:2618
+msgid ""
+"Controls the font size of the price. Enter value including any valid CSS "
+"unit, ex: 20px."
+msgstr ""
+
+#. URL for the link.
+#: template/template-woo-product.php:1087 
+#: template/template-woo-product.php:2220
+msgid ""
+"Controls the font size of the terms. Enter value including any valid CSS "
+"unit, ex: 20px."
+msgstr ""
+
+#. URL for the link.
+#: template/template-woo-product.php:929 
+#: template/template-woo-product.php:2065 
+#: deprecated/addons-post-archive-page.php:521
+msgid ""
+"Controls the font size of the title. Enter value including any valid CSS "
+"unit, ex: 20px."
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:590
+msgid ""
+"Controls the line height of the content. Enter value including any valid CSS "
+"unit, ex: 28px."
+msgstr ""
+
+#. URL for the link.
+#: template/template-woo-product.php:1405 
+#: template/template-woo-product.php:1522 
+#: template/template-woo-product.php:2533 
+#: template/template-woo-product.php:2648
+msgid ""
+"Controls the line height of the price. Enter value including any valid CSS "
+"unit, ex: 28px."
+msgstr ""
+
+#. URL for the link.
+#: template/template-woo-product.php:1103 
+#: template/template-woo-product.php:2235
+msgid ""
+"Controls the line height of the terms. Enter value including any valid CSS "
+"unit, ex: 28px."
+msgstr ""
+
+#. URL for the link.
+#: template/template-woo-product.php:945 
+#: template/template-woo-product.php:2080 
+#: deprecated/addons-post-archive-page.php:537
+msgid ""
+"Controls the line height of the title. Enter value including any valid CSS "
+"unit, ex: 28px."
+msgstr ""
+
+#: template/template-woo-product.php:1648 
+#: template/template-woo-product.php:2773 
+#: deprecated/addons-post-archive-page.php:669
+msgid "Controls the margin size of the button."
+msgstr ""
+
+#: template/template-woo-product.php:818 template/template-woo-product.php:852 
+#: template/template-woo-product.php:1956 
+#: template/template-woo-product.php:1990 
+#: deprecated/addons-post-archive-page.php:464 
+#: deprecated/addons-post-archive-page.php:477
+msgid "Controls the margin size of the columns element."
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:598
+msgid "Controls the margin size of the content."
+msgstr ""
+
+#: template/template-woo-product.php:1440 
+#: template/template-woo-product.php:2568
+msgid "Controls the margin size of the price."
+msgstr ""
+
+#: template/template-woo-product.php:1292 
+#: template/template-woo-product.php:2423
+msgid "Controls the margin size of the rating."
+msgstr ""
+
+#: template/template-woo-product.php:1148 
+#: template/template-woo-product.php:2280
+msgid "Controls the margin size of the terms."
+msgstr ""
+
+#: template/template-woo-product.php:1010 
+#: template/template-woo-product.php:2145 
+#: deprecated/addons-post-archive-page.php:545
+msgid "Controls the margin size of the title."
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:624
+msgid ""
+"Controls the minimum height of the content. Enter value including any valid "
+"CSS unit, ex: 20px."
+msgstr ""
+
+#: template/template-woo-product.php:1460 
+#: template/template-woo-product.php:2588
+msgid ""
+"Controls the minimum height of the price. Enter value including any valid "
+"CSS unit, ex: 20px."
+msgstr ""
+
+#: template/template-woo-product.php:1188 
+#: template/template-woo-product.php:2320
+msgid ""
+"Controls the minimum height of the terms. Enter value including any valid "
+"CSS unit, ex: 20px."
+msgstr ""
+
+#: template/template-woo-product.php:1030 
+#: template/template-woo-product.php:2165 
+#: deprecated/addons-post-archive-page.php:558
+msgid ""
+"Controls the minimum height of the title. Enter value including any valid "
+"CSS unit, ex: 20px."
+msgstr ""
+
+#: template/template-woo-product.php:1635 
+#: template/template-woo-product.php:2760 
+#: deprecated/addons-post-archive-page.php:656
+msgid "Controls the padding size of the button."
+msgstr ""
+
+#: template/template-woo-product.php:805 
+#: template/template-woo-product.php:1943 
+#: deprecated/addons-post-archive-page.php:451
+msgid "Controls the padding size of the columns element."
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:611
+msgid "Controls the padding size of the content."
+msgstr ""
+
+#: template/template-woo-product.php:1420 
+#: template/template-woo-product.php:1537 
+#: template/template-woo-product.php:2548 
+#: template/template-woo-product.php:2663
+msgid "Controls the padding size of the price."
+msgstr ""
+
+#: template/template-woo-product.php:1312 
+#: template/template-woo-product.php:2443
+msgid "Controls the padding size of the rating."
+msgstr ""
+
+#: template/template-woo-product.php:1168 
+#: template/template-woo-product.php:2300
+msgid "Controls the padding size of the terms."
+msgstr ""
+
+#: template/template-woo-product.php:990 template/template-woo-product.php:2125
+msgid "Controls the padding size of the title."
+msgstr ""
+
+#. URL for the link.
+#: template/template-woo-product.php:1262 
+#: template/template-woo-product.php:2393
+msgid ""
+"Controls the stars size. Enter value including any valid CSS unit, ex: 20px."
+msgstr ""
+
+#: builder-elements/credits.php:10
+msgid "Credit AIO"
+msgstr ""
+
+#: inc/aio-redux-core/config/config.php:299
+msgid "Credit Link"
+msgstr ""
+
+#: inc/aio-redux-core/config/config.php:285
+msgid "Credits"
+msgstr ""
+
+#: template/template-woo-product.php:715 
+#: template/template-woo-product.php:1853 
+#: template/addons-woo-on-sales-carousel.php:164 
+#: template/addons-post-carousel.php:370 
+#: template/addons-woo-best-sellers-carousel.php:163 
+#: deprecated/addons-post-archive-page.php:378
+msgid "CSS Class"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:172 
+#: template/addons-post-carousel.php:378 
+#: template/addons-woo-best-sellers-carousel.php:171
+msgid "CSS ID"
+msgstr ""
+
+#: template/template-woo-product.php:667 
+#: template/template-woo-product.php:1826 
+#: template/addons-post-carousel.php:234 
+#: deprecated/addons-post-archive-page.php:323
+msgid "Date"
+msgstr ""
+
+#: template/addons-post-carousel.php:230 
+#: deprecated/addons-post-archive-page.php:319
+msgid "Defines how posts should be ordered."
+msgstr ""
+
+#: template/addons-post-carousel.php:207 
+#: deprecated/addons-post-archive-page.php:296
+msgid "Defines the sorting order of posts."
+msgstr ""
+
+#: template/template-woo-product.php:704 
+#: template/template-woo-product.php:1842 
+#: template/addons-post-carousel.php:211 
+#: deprecated/addons-post-archive-page.php:300
+msgid "Descending"
+msgstr ""
+
+#: template/addons-post-carousel.php:347 template/addons-post-carousel.php:412 
+#: template/addons-post-carousel.php:431
+msgid "Design"
+msgstr ""
+
+#: template/global-layout-product.php:42
+msgid "Dettagli"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:156 
+#: template/addons-post-carousel.php:362 
+#: template/addons-woo-best-sellers-carousel.php:155
+msgid "Element Visibility"
+msgstr ""
+
+#: template/addons-post-carousel.php:144
+msgid "Enter the name of the post type you want to view. Default is Post."
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:339
+msgid "Equal Height"
+msgstr ""
+
+#: template/addons-post-carousel.php:435 
+#: deprecated/addons-post-archive-page.php:350
+msgid "Excerpt Length"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:360
+msgid "Excerpt Symbol"
+msgstr ""
+
+#: template/addons-post-carousel.php:199
+msgid "Exclude Categories Slug"
+msgstr ""
+
+#: deprecated/addons-order-and-view-filtering.php:69
+msgid "Featured Products"
+msgstr ""
+
+#: template/addons-post-carousel.php:150
+msgid "Filter by Taxonomy e Term"
+msgstr ""
+
+#: template/addons-post-carousel.php:200 
+#: deprecated/addons-post-archive-page.php:279
+msgid ""
+"Filter categories to exclude by Comma-separated slug or leave blank for show "
+"all."
+msgstr ""
+
+#: template/addons-post-carousel.php:176
+msgid "Filter list of terms to show."
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:78 
+#: template/addons-post-carousel.php:255 
+#: template/addons-woo-best-sellers-carousel.php:77
+msgid "Fixed"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:74 
+#: template/addons-post-carousel.php:251 
+#: template/addons-woo-best-sellers-carousel.php:73
+msgid ""
+"fixed = width and height will be fixed<br>auto = width and height will "
+"adjust to the image."
+msgstr ""
+
+#: template/template-woo-product.php:959 
+#: template/template-woo-product.php:1117 
+#: template/template-woo-product.php:1388 
+#: template/template-woo-product.php:1602 
+#: template/template-woo-product.php:2094 
+#: template/template-woo-product.php:2249 
+#: template/template-woo-product.php:2517 
+#: template/template-woo-product.php:2727 
+#: deprecated/addons-post-archive-page.php:528 
+#: deprecated/addons-post-archive-page.php:581 
+#: deprecated/addons-post-archive-page.php:639
+msgid "Font Color"
+msgstr ""
+
+#: template/template-woo-product.php:927 
+#: template/template-woo-product.php:1085 
+#: template/template-woo-product.php:1372 
+#: template/template-woo-product.php:1626 
+#: template/template-woo-product.php:2064 
+#: template/template-woo-product.php:2219 
+#: template/template-woo-product.php:2502 
+#: template/template-woo-product.php:2751 
+#: deprecated/addons-post-archive-page.php:520 
+#: deprecated/addons-post-archive-page.php:573 
+#: deprecated/addons-post-archive-page.php:647
+msgid "Font Size"
+msgstr ""
+
+#: template/template-woo-product.php:1474 
+#: template/template-woo-product.php:2602
+msgid "Full Price Background Color"
+msgstr ""
+
+#: template/template-woo-product.php:1505 
+#: template/template-woo-product.php:2632
+msgid "Full Price Font Color"
+msgstr ""
+
+#: template/template-woo-product.php:1489 
+#: template/template-woo-product.php:2617
+msgid "Full Price Font Size"
+msgstr ""
+
+#: template/template-woo-product.php:1520 
+#: template/template-woo-product.php:2647
+msgid "Full Price Line Height"
+msgstr ""
+
+#: template/template-woo-product.php:1536 
+#: template/template-woo-product.php:2662
+msgid "Full Price Padding"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:168 
+#: template/addons-woo-on-sales-carousel.php:176 
+#: template/addons-post-carousel.php:374 template/addons-post-carousel.php:382 
+#: template/addons-woo-best-sellers-carousel.php:167 
+#: template/addons-woo-best-sellers-carousel.php:175
+msgid "General"
+msgstr ""
+
+#: template/template-woo-product.php:726 template/template-woo-product.php:782 
+#: template/template-woo-product.php:790 template/template-woo-product.php:813 
+#: template/template-woo-product.php:826 template/template-woo-product.php:839 
+#: template/template-woo-product.php:847 template/template-woo-product.php:860 
+#: template/template-woo-product.php:868 
+#: template/template-woo-product.php:1864 
+#: template/template-woo-product.php:1920 
+#: template/template-woo-product.php:1928 
+#: template/template-woo-product.php:1951 
+#: template/template-woo-product.php:1964 
+#: template/template-woo-product.php:1977 
+#: template/template-woo-product.php:1985 
+#: template/template-woo-product.php:1998 
+#: template/template-woo-product.php:2006
+msgid "Global Design"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:391
+msgid "Grid"
+msgstr ""
+
+#: template/template-woo-product.php:617 template/template-woo-product.php:1776
+msgid "Grid Classic"
+msgstr ""
+
+#: template/template-woo-product.php:618 template/template-woo-product.php:1777
+msgid "Grid Modern"
+msgstr ""
+
+#: template/template-woo-product.php:729 template/template-woo-product.php:871 
+#: template/template-woo-product.php:1867 
+#: template/template-woo-product.php:2009 
+#: deprecated/addons-post-archive-page.php:496
+msgid "Hidden"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:212 
+#: template/addons-woo-best-sellers-carousel.php:211
+msgid "Hide Categories"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:190 
+#: template/addons-woo-best-sellers-carousel.php:189
+msgid "Hide image preview"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:224 
+#: template/addons-woo-best-sellers-carousel.php:223
+msgid "Hide Price"
+msgstr ""
+
+#: template/template-woo-product.php:1203 
+#: template/template-woo-product.php:2335 
+#: template/addons-woo-on-sales-carousel.php:235 
+#: template/addons-woo-best-sellers-carousel.php:234
+msgid "Hide Star Rating"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:201 
+#: template/addons-woo-best-sellers-carousel.php:200
+msgid "Hide Title"
+msgstr ""
+
+#: template/template-woo-product.php:1610 
+#: template/template-woo-product.php:2735
+msgid "Hover Background Color"
+msgstr ""
+
+#: template/template-woo-product.php:974 
+#: template/template-woo-product.php:1132 
+#: template/template-woo-product.php:1618 
+#: template/template-woo-product.php:2109 
+#: template/template-woo-product.php:2264 
+#: template/template-woo-product.php:2743
+msgid "Hover Font Color"
+msgstr ""
+
+#: template/addons-post-carousel.php:261
+msgid "Hover Type"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.advisionplus.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.marcopappalardo.it"
+msgstr ""
+
+#: template/template-woo-product.php:668 template/template-woo-product.php:1827
+msgid "Id"
+msgstr ""
+
+#: template/template-woo-product.php:685
+msgid "Ids"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:145 
+#: template/addons-post-carousel.php:351 
+#: template/addons-woo-best-sellers-carousel.php:144
+msgid "Image lightbox"
+msgstr ""
+
+#: builder-elements/credits.php:18
+msgid "Image Max Width"
+msgstr ""
+
+#: template/global-layout-product.php:25
+msgid "In offerta!"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:286
+msgid "Indicates the number of posts to display. Select -1 for all."
+msgstr ""
+
+#: template/template-woo-product.php:733 template/template-woo-product.php:875 
+#: template/template-woo-product.php:1871 
+#: template/template-woo-product.php:2013 
+#: deprecated/addons-post-archive-page.php:500
+msgid "Inherit"
+msgstr ""
+
+#: template/template-woo-product.php:732 template/template-woo-product.php:874 
+#: template/template-woo-product.php:1870 
+#: template/template-woo-product.php:2012 
+#: deprecated/addons-post-archive-page.php:499
+msgid "Initial"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:95 
+#: template/addons-post-carousel.php:311 
+#: template/addons-woo-best-sellers-carousel.php:94
+msgid ""
+"Insert the amount of items to scroll. Leave empty to scroll number of "
+"visible items."
+msgstr ""
+
+#: template/addons-post-carousel.php:301
+msgid "Insert the amount of spacing between items without \"px\". ex: 13."
+msgstr ""
+
+#: template/addons-post-carousel.php:436
+msgid "Insert the Excerpt Length"
+msgstr ""
+
+#: inc/aio-redux-core/config/config.php:300
+msgid "Insert the link you would redirect when the click on the logo"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:351
+msgid "Insert the number of words/characters you want to show in the excerpt."
+msgstr ""
+
+#: template/addons-post-carousel.php:239 
+#: deprecated/addons-post-archive-page.php:328
+msgid "Last Modified"
+msgstr ""
+
+#: template/template-woo-product.php:613 template/template-woo-product.php:1772
+msgid "Layout"
+msgstr ""
+
+#: template/template-woo-product.php:793 
+#: template/template-woo-product.php:1931 
+#: deprecated/addons-post-archive-page.php:439
+msgid "Left"
+msgstr ""
+
+#: template/addons-post-carousel.php:108
+msgid "Leggi"
+msgstr ""
+
+#: template/addons-post-carousel.php:268
+msgid "Lift Up"
+msgstr ""
+
+#: template/template-woo-product.php:943 
+#: template/template-woo-product.php:1101 
+#: template/template-woo-product.php:1403 
+#: template/template-woo-product.php:2079 
+#: template/template-woo-product.php:2234 
+#: template/template-woo-product.php:2532 
+#: deprecated/addons-post-archive-page.php:536 
+#: deprecated/addons-post-archive-page.php:589
+msgid "Line Height"
+msgstr ""
+
+#. Author of the plugin
+msgid "Marco Pappalardo"
+msgstr ""
+
+#: template/template-woo-product.php:817 
+#: template/template-woo-product.php:1009 
+#: template/template-woo-product.php:1147 
+#: template/template-woo-product.php:1291 
+#: template/template-woo-product.php:1439 
+#: template/template-woo-product.php:1647 
+#: template/template-woo-product.php:1955 
+#: template/template-woo-product.php:2144 
+#: template/template-woo-product.php:2279 
+#: template/template-woo-product.php:2422 
+#: template/template-woo-product.php:2567 
+#: template/template-woo-product.php:2772 
+#: deprecated/addons-post-archive-page.php:463 
+#: deprecated/addons-post-archive-page.php:544 
+#: deprecated/addons-post-archive-page.php:597 
+#: deprecated/addons-post-archive-page.php:668
+msgid "Margin"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:63 
+#: template/addons-post-carousel.php:290 
+#: template/addons-woo-best-sellers-carousel.php:62
+msgid "Maximum Columns"
+msgstr ""
+
+#: template/template-woo-product.php:669 template/template-woo-product.php:1828
+msgid "Menu Order"
+msgstr ""
+
+#: template/template-woo-product.php:1029 
+#: template/template-woo-product.php:1187 
+#: template/template-woo-product.php:1459 
+#: template/template-woo-product.php:2164 
+#: template/template-woo-product.php:2319 
+#: template/template-woo-product.php:2587 
+#: deprecated/addons-post-archive-page.php:557 
+#: deprecated/addons-post-archive-page.php:623
+msgid "Min Height"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:123 
+#: template/addons-post-carousel.php:328 
+#: template/addons-woo-best-sellers-carousel.php:122
+msgid "Mouse Scroll"
+msgstr ""
+
+#: template/template-woo-product.php:658 template/template-woo-product.php:750 
+#: template/template-woo-product.php:761 template/template-woo-product.php:772 
+#: template/template-woo-product.php:893 
+#: template/template-woo-product.php:1051 
+#: template/template-woo-product.php:1209 
+#: template/template-woo-product.php:1338 
+#: template/template-woo-product.php:1562 
+#: template/template-woo-product.php:1574 
+#: template/template-woo-product.php:1817 
+#: template/template-woo-product.php:1888 
+#: template/template-woo-product.php:1899 
+#: template/template-woo-product.php:1910 
+#: template/template-woo-product.php:2031 
+#: template/template-woo-product.php:2186 
+#: template/template-woo-product.php:2341 
+#: template/template-woo-product.php:2469 
+#: template/template-woo-product.php:2688 
+#: template/template-woo-product.php:2700 
+#: template/addons-woo-on-sales-carousel.php:106 
+#: template/addons-woo-on-sales-carousel.php:117 
+#: template/addons-woo-on-sales-carousel.php:128 
+#: template/addons-woo-on-sales-carousel.php:139 
+#: template/addons-woo-on-sales-carousel.php:150 
+#: template/addons-woo-on-sales-carousel.php:195 
+#: template/addons-woo-on-sales-carousel.php:206 
+#: template/addons-woo-on-sales-carousel.php:217 
+#: template/addons-woo-on-sales-carousel.php:229 
+#: template/addons-woo-on-sales-carousel.php:240 
+#: template/addons-woo-on-sales-carousel.php:251 
+#: template/addons-post-carousel.php:155 template/addons-post-carousel.php:284 
+#: template/addons-post-carousel.php:322 template/addons-post-carousel.php:333 
+#: template/addons-post-carousel.php:344 template/addons-post-carousel.php:356 
+#: template/addons-post-carousel.php:391 template/addons-post-carousel.php:402 
+#: template/addons-post-carousel.php:421 template/addons-post-carousel.php:450 
+#: template/addons-post-carousel.php:461 
+#: template/addons-woo-best-sellers-carousel.php:105 
+#: template/addons-woo-best-sellers-carousel.php:116 
+#: template/addons-woo-best-sellers-carousel.php:127 
+#: template/addons-woo-best-sellers-carousel.php:138 
+#: template/addons-woo-best-sellers-carousel.php:149 
+#: template/addons-woo-best-sellers-carousel.php:194 
+#: template/addons-woo-best-sellers-carousel.php:205 
+#: template/addons-woo-best-sellers-carousel.php:216 
+#: template/addons-woo-best-sellers-carousel.php:228 
+#: template/addons-woo-best-sellers-carousel.php:239 
+#: template/addons-woo-best-sellers-carousel.php:250 
+#: deprecated/addons-post-archive-page.php:345 
+#: deprecated/addons-post-archive-page.php:366 
+#: deprecated/addons-post-archive-page.php:408
+msgid "No"
+msgstr ""
+
+#: template/addons-post-carousel.php:265
+msgid "None"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:413
+msgid "Number of Columns"
+msgstr ""
+
+#: deprecated/addons-order-and-view-filtering.php:76
+msgid "Number of columns to show in a single row."
+msgstr ""
+
+#: template/addons-post-carousel.php:238 
+#: deprecated/addons-post-archive-page.php:327
+msgid "Number of Comments"
+msgstr ""
+
+#: template/template-woo-product.php:625 template/template-woo-product.php:1784
+msgid "Number of Products to display"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:246 
+#: template/addons-woo-best-sellers-carousel.php:245
+msgid "Number of review"
+msgstr ""
+
+#: template/template-woo-product.php:744 template/template-woo-product.php:1882
+msgid "On sale"
+msgstr ""
+
+#: template/template-woo-product.php:699 
+#: template/template-woo-product.php:1837 
+#: template/addons-post-carousel.php:206 
+#: deprecated/addons-post-archive-page.php:295
+msgid "Order"
+msgstr ""
+
+#: template/template-woo-product.php:663 
+#: template/template-woo-product.php:1822 
+#: template/addons-post-carousel.php:229 
+#: deprecated/addons-post-archive-page.php:318
+msgid "Order By"
+msgstr ""
+
+#: template/global-layout-product.php:76
+msgid "out of 5"
+msgstr ""
+
+#: template/template-woo-product.php:722 template/template-woo-product.php:864 
+#: template/template-woo-product.php:1860 
+#: template/template-woo-product.php:2002 
+#: deprecated/addons-post-archive-page.php:489
+msgid "Overflow"
+msgstr ""
+
+#: template/template-woo-product.php:804 template/template-woo-product.php:989 
+#: template/template-woo-product.php:1167 
+#: template/template-woo-product.php:1311 
+#: template/template-woo-product.php:1419 
+#: template/template-woo-product.php:1634 
+#: template/template-woo-product.php:1942 
+#: template/template-woo-product.php:2124 
+#: template/template-woo-product.php:2299 
+#: template/template-woo-product.php:2442 
+#: template/template-woo-product.php:2547 
+#: template/template-woo-product.php:2759 
+#: deprecated/addons-post-archive-page.php:450 
+#: deprecated/addons-post-archive-page.php:610 
+#: deprecated/addons-post-archive-page.php:655
+msgid "Padding"
+msgstr ""
+
+#: template/template-woo-product.php:652 template/template-woo-product.php:1811
+msgid "Pagination"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:73 
+#: template/addons-post-carousel.php:250 
+#: template/addons-woo-best-sellers-carousel.php:72
+msgid "Picture Size"
+msgstr ""
+
+#: template/template-woo-product.php:670 template/template-woo-product.php:1829
+msgid "Popularity"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:271
+msgid "Post Archive AIO"
+msgstr ""
+
+#: template/addons-post-carousel.php:135
+msgid "Post Carousel AIO"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:385
+msgid "Post Layout"
+msgstr ""
+
+#: template/addons-post-carousel.php:189
+msgid "Post per Page"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:285
+msgid "Post per page"
+msgstr ""
+
+#: template/addons-post-carousel.php:236 
+#: deprecated/addons-post-archive-page.php:325
+msgid "Post Slug"
+msgstr ""
+
+#: template/addons-post-carousel.php:235 
+#: deprecated/addons-post-archive-page.php:324
+msgid "Post Title"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:278
+msgid "Post Type"
+msgstr ""
+
+#: template/addons-post-carousel.php:143
+msgid "Post Type Name"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:180 
+#: template/addons-woo-best-sellers-carousel.php:179
+msgid "Posts per Page"
+msgstr ""
+
+#: template/template-woo-product.php:1340 
+#: template/template-woo-product.php:1349 
+#: template/template-woo-product.php:1361 
+#: template/template-woo-product.php:1377 
+#: template/template-woo-product.php:1392 
+#: template/template-woo-product.php:1408 
+#: template/template-woo-product.php:1428 
+#: template/template-woo-product.php:1448 
+#: template/template-woo-product.php:1463 
+#: template/template-woo-product.php:1478 
+#: template/template-woo-product.php:1494 
+#: template/template-woo-product.php:1509 
+#: template/template-woo-product.php:1525 
+#: template/template-woo-product.php:1545 
+#: template/template-woo-product.php:2471 
+#: template/template-woo-product.php:2479 
+#: template/template-woo-product.php:2491 
+#: template/template-woo-product.php:2506 
+#: template/template-woo-product.php:2521 
+#: template/template-woo-product.php:2536 
+#: template/template-woo-product.php:2556 
+#: template/template-woo-product.php:2576 
+#: template/template-woo-product.php:2591 
+#: template/template-woo-product.php:2606 
+#: template/template-woo-product.php:2621 
+#: template/template-woo-product.php:2636 
+#: template/template-woo-product.php:2651 
+#: template/template-woo-product.php:2671
+msgid "Price"
+msgstr ""
+
+#: deprecated/addons-order-and-view-filtering.php:64 
+#: deprecated/addons-order-and-view-filtering.php:65
+msgid "Product by SKU/ID"
+msgstr ""
+
+#: deprecated/addons-order-and-view-filtering.php:66
+msgid "Product Categories"
+msgstr ""
+
+#: deprecated/addons-order-and-view-filtering.php:67
+msgid "Product Category by slug"
+msgstr ""
+
+#: template/template-woo-product.php:671 
+#: template/template-woo-product.php:1830 
+#: template/addons-post-carousel.php:240 
+#: deprecated/addons-post-archive-page.php:329
+msgid "Random"
+msgstr ""
+
+#: template/global-layout-product.php:76
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: template/template-woo-product.php:672 
+#: template/template-woo-product.php:1206 
+#: template/template-woo-product.php:1219 
+#: template/template-woo-product.php:1234 
+#: template/template-woo-product.php:1249 
+#: template/template-woo-product.php:1265 
+#: template/template-woo-product.php:1280 
+#: template/template-woo-product.php:1300 
+#: template/template-woo-product.php:1320 
+#: template/template-woo-product.php:1831 
+#: template/template-woo-product.php:2338 
+#: template/template-woo-product.php:2351 
+#: template/template-woo-product.php:2366 
+#: template/template-woo-product.php:2381 
+#: template/template-woo-product.php:2396 
+#: template/template-woo-product.php:2411 
+#: template/template-woo-product.php:2431 
+#: template/template-woo-product.php:2451
+msgid "Rating"
+msgstr ""
+
+#: template/template-woo-product.php:1230 
+#: template/template-woo-product.php:2362
+msgid "Rating Border Stars Color"
+msgstr ""
+
+#: template/template-woo-product.php:1245 
+#: template/template-woo-product.php:2377
+msgid "Rating Full Stars Color"
+msgstr ""
+
+#: template/template-woo-product.php:1276 
+#: template/template-woo-product.php:2407
+msgid "Rating Text Color"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:244
+msgid "Read More"
+msgstr ""
+
+#: deprecated/addons-order-and-view-filtering.php:68
+msgid "Recent Products"
+msgstr ""
+
+#: template/template-woo-product.php:745 template/template-woo-product.php:1883
+msgid ""
+"Retrieve on sale products. Not to be used in conjunction with best sellingor "
+"top rated."
+msgstr ""
+
+#: template/template-woo-product.php:756 template/template-woo-product.php:1894
+msgid ""
+"Retrieve the best selling products. Not to be used in conjunction with on "
+"sale or top rated."
+msgstr ""
+
+#: template/template-woo-product.php:767 template/template-woo-product.php:1905
+msgid ""
+"Retrieve top-rated products. Not to be used in conjunction with on sale or "
+"best selling."
+msgstr ""
+
+#: template/template-woo-product.php:794 
+#: template/template-woo-product.php:1932 
+#: deprecated/addons-post-archive-page.php:440
+msgid "Right"
+msgstr ""
+
+#: template/template-woo-product.php:730 template/template-woo-product.php:872 
+#: template/template-woo-product.php:1868 
+#: template/template-woo-product.php:2010 
+#: deprecated/addons-post-archive-page.php:497
+msgid "Scroll"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:94 
+#: template/addons-post-carousel.php:310 
+#: template/addons-woo-best-sellers-carousel.php:93
+msgid "Scroll Items"
+msgstr ""
+
+#: deprecated/addons-order-and-view-filtering.php:60
+msgid "Select how to filter the product list."
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:247 
+#: template/addons-woo-best-sellers-carousel.php:246
+msgid ""
+"Select if you would to show how many people left a review for the single "
+"product."
+msgstr ""
+
+#: template/template-woo-product.php:1204 
+#: template/template-woo-product.php:2336 
+#: template/addons-woo-on-sales-carousel.php:236 
+#: template/addons-woo-best-sellers-carousel.php:235
+msgid "Select if you would to show review stars."
+msgstr ""
+
+#: template/template-woo-product.php:1558 
+#: template/template-woo-product.php:1570 
+#: template/template-woo-product.php:2684 
+#: template/template-woo-product.php:2696
+msgid "Select if you would to show the button."
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:213 
+#: template/addons-woo-best-sellers-carousel.php:212
+msgid "Select if you would to show the categories on corousel."
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:191 
+#: template/addons-woo-best-sellers-carousel.php:190
+msgid "Select if you would to show the image preview on corousel."
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:225 
+#: template/addons-woo-best-sellers-carousel.php:224
+msgid "Select if you would to show the price."
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:202 
+#: template/addons-woo-best-sellers-carousel.php:201
+msgid "Select if you would to show the title on corousel."
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:85
+msgid "Select the columns space."
+msgstr ""
+
+#: template/addons-woo-best-sellers-carousel.php:84
+msgid "Select the font size to be used ( In pixel )."
+msgstr ""
+
+#: template/addons-post-carousel.php:262
+msgid "Select the hover effect type."
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:386 
+#: deprecated/addons-post-archive-page.php:414
+msgid "Select the layout for the element"
+msgstr ""
+
+#: template/template-woo-product.php:614 template/template-woo-product.php:1773
+msgid "Select the layout you would to use"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:64 
+#: template/addons-post-carousel.php:291 
+#: template/addons-woo-best-sellers-carousel.php:63
+msgid "Select the number of max columns to display."
+msgstr ""
+
+#: template/addons-post-carousel.php:190
+msgid "Select the number of posts to show in the carousel."
+msgstr ""
+
+#: template/template-woo-product.php:723 template/template-woo-product.php:865 
+#: template/template-woo-product.php:1861 
+#: template/template-woo-product.php:2003 
+#: deprecated/addons-post-archive-page.php:490
+msgid "Select the overflow attribute for the columns"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:361
+msgid "Select Yes if you wanto to show the excerpt symbol."
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:340
+msgid "Select Yes if you would to set the equal heigth for the columns."
+msgstr ""
+
+#: template/template-woo-product.php:1333 
+#: template/template-woo-product.php:2464
+msgid "Select Yes if you would to show the price."
+msgstr ""
+
+#: template/template-woo-product.php:1046 
+#: template/template-woo-product.php:2181
+msgid "Select Yes if you would to show the terms."
+msgstr ""
+
+#: template/template-woo-product.php:888 template/template-woo-product.php:2026
+msgid "Select Yes if you would to show the title."
+msgstr ""
+
+#: builder-elements/credits.php:19
+msgid "Set the max width for the logo credit."
+msgstr ""
+
+#: deprecated/addons-order-and-view-filtering.php:59
+msgid "Show"
+msgstr ""
+
+#: template/addons-post-carousel.php:386
+msgid "Show Button"
+msgstr ""
+
+#: template/template-woo-product.php:1557 
+#: template/template-woo-product.php:2683
+msgid "Show Cart Button"
+msgstr ""
+
+#: template/addons-post-carousel.php:416
+msgid "Show Content"
+msgstr ""
+
+#: template/addons-post-carousel.php:445
+msgid "Show Continue Symbol"
+msgstr ""
+
+#: template/template-woo-product.php:1569 
+#: template/template-woo-product.php:2695
+msgid "Show Details Button"
+msgstr ""
+
+#: template/addons-post-carousel.php:352
+msgid ""
+"Show image in lightbox. Lightbox must be enabled in Global Options or the "
+"image will open up in the same tab by itself."
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:146 
+#: template/addons-woo-best-sellers-carousel.php:145
+msgid ""
+"Show image in lightbox. Lightbox must be enabled in Theme Options or the "
+"image will open up in the same tab by itself."
+msgstr ""
+
+#: template/addons-post-carousel.php:456
+msgid "Show Image preview"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:101 
+#: template/addons-post-carousel.php:317 
+#: template/addons-woo-best-sellers-carousel.php:100
+msgid "Show Navigation"
+msgstr ""
+
+#: template/template-woo-product.php:1332 
+#: template/template-woo-product.php:2463
+msgid "Show Price"
+msgstr ""
+
+#: template/template-woo-product.php:1045 
+#: template/template-woo-product.php:2180
+msgid "Show Terms"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:401
+msgid "Show Thumbnail"
+msgstr ""
+
+#: template/template-woo-product.php:887 
+#: template/template-woo-product.php:2025 template/addons-post-carousel.php:397
+msgid "Show Title"
+msgstr ""
+
+#: template/template-woo-product.php:664 template/template-woo-product.php:1823
+msgid ""
+"Sorts the products displayed by the entered option. One or more options can "
+"be passed by adding both slugs with a space between them. Defaults is Title"
+msgstr ""
+
+#: template/template-woo-product.php:645 template/template-woo-product.php:1804
+msgid "Space Between Columns"
+msgstr ""
+
+#: template/template-woo-product.php:646 template/template-woo-product.php:1805
+msgid "Space between each columns. ex 10px."
+msgstr ""
+
+#: template/template-woo-product.php:619 template/template-woo-product.php:1778
+msgid "Special Offer"
+msgstr ""
+
+#: template/template-woo-product.php:1260 
+#: template/template-woo-product.php:2392
+msgid "Stars Size"
+msgstr ""
+
+#: template/template-woo-product.php:700 template/template-woo-product.php:1838
+msgid ""
+"States whether the product order is ascending (ASC) or descending (DESC), "
+"using the method set in orderby. Defaults to ASC."
+msgstr ""
+
+#: template/template-woo-product.php:692
+msgid "Tag"
+msgstr ""
+
+#: template/addons-post-carousel.php:161
+msgid "Taxonomy"
+msgstr ""
+
+#: template/template-woo-product.php:1053 
+#: template/template-woo-product.php:1062 
+#: template/template-woo-product.php:1074 
+#: template/template-woo-product.php:1090 
+#: template/template-woo-product.php:1106 
+#: template/template-woo-product.php:1121 
+#: template/template-woo-product.php:1136 
+#: template/template-woo-product.php:1156 
+#: template/template-woo-product.php:1176 
+#: template/template-woo-product.php:1191 
+#: template/template-woo-product.php:2188 
+#: template/template-woo-product.php:2196 
+#: template/template-woo-product.php:2208 
+#: template/template-woo-product.php:2223 
+#: template/template-woo-product.php:2238 
+#: template/template-woo-product.php:2253 
+#: template/template-woo-product.php:2268 
+#: template/template-woo-product.php:2288 
+#: template/template-woo-product.php:2308 
+#: template/template-woo-product.php:2323 template/addons-post-carousel.php:175
+msgid "Terms"
+msgstr ""
+
+#: template/template-woo-product.php:786 
+#: template/template-woo-product.php:1924 
+#: deprecated/addons-post-archive-page.php:432
+msgid "Text Align"
+msgstr ""
+
+#: template/template-woo-product.php:636 template/template-woo-product.php:1795
+msgid "The number of columns to display. Defaults to 4"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:181 
+#: template/addons-woo-best-sellers-carousel.php:180
+msgid "The number of posts to query for. Use -1 to request all posts."
+msgstr ""
+
+#: template/template-woo-product.php:626 template/template-woo-product.php:1785
+msgid ""
+"The number of products to display. Defaults to and -1 (display all)  when "
+"listing products, and -1 (display all) for categories."
+msgstr ""
+
+#: inc/aio-redux-core/config/config.php:226
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/aio-redux-core/config/config.php:232
+msgid "Theme Information 2"
+msgstr ""
+
+#: template/template-woo-product.php:779 template/template-woo-product.php:844 
+#: template/template-woo-product.php:913 
+#: template/template-woo-product.php:1071 
+#: template/template-woo-product.php:1216 
+#: template/template-woo-product.php:1231 
+#: template/template-woo-product.php:1246 
+#: template/template-woo-product.php:1277 
+#: template/template-woo-product.php:1358 
+#: template/template-woo-product.php:1475 
+#: template/template-woo-product.php:1595 
+#: template/template-woo-product.php:1611 
+#: template/template-woo-product.php:1917 
+#: template/template-woo-product.php:1982 
+#: template/template-woo-product.php:2050 
+#: template/template-woo-product.php:2205 
+#: template/template-woo-product.php:2348 
+#: template/template-woo-product.php:2363 
+#: template/template-woo-product.php:2378 
+#: template/template-woo-product.php:2408 
+#: template/template-woo-product.php:2488 
+#: template/template-woo-product.php:2603 
+#: template/template-woo-product.php:2720 
+#: template/template-woo-product.php:2736 
+#: template/addons-post-carousel.php:409 template/addons-post-carousel.php:428 
+#: deprecated/addons-post-archive-page.php:425 
+#: deprecated/addons-post-archive-page.php:512 
+#: deprecated/addons-post-archive-page.php:566 
+#: deprecated/addons-post-archive-page.php:632
+msgid "This field allows you to select the color with a hex value."
+msgstr ""
+
+#. Description of the plugin
+msgid "This is an addons collection for Avada Theme."
+msgstr ""
+
+#: inc/aio-redux-core/config/config.php:240
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: inc/aio-redux-core/config/config.php:227 
+#: inc/aio-redux-core/config/config.php:233
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: template/template-woo-product.php:673 template/template-woo-product.php:895 
+#: template/template-woo-product.php:904 template/template-woo-product.php:916 
+#: template/template-woo-product.php:932 template/template-woo-product.php:948 
+#: template/template-woo-product.php:963 template/template-woo-product.php:978 
+#: template/template-woo-product.php:998 
+#: template/template-woo-product.php:1018 
+#: template/template-woo-product.php:1033 
+#: template/template-woo-product.php:1832 
+#: template/template-woo-product.php:2033 
+#: template/template-woo-product.php:2041 
+#: template/template-woo-product.php:2053 
+#: template/template-woo-product.php:2068 
+#: template/template-woo-product.php:2083 
+#: template/template-woo-product.php:2098 
+#: template/template-woo-product.php:2113 
+#: template/template-woo-product.php:2133 
+#: template/template-woo-product.php:2153 
+#: template/template-woo-product.php:2168
+msgid "Title"
+msgstr ""
+
+#: template/addons-post-carousel.php:408
+msgid "Title Color"
+msgstr ""
+
+#: deprecated/addons-post-archive-page.php:515 
+#: deprecated/addons-post-archive-page.php:524 
+#: deprecated/addons-post-archive-page.php:532 
+#: deprecated/addons-post-archive-page.php:540 
+#: deprecated/addons-post-archive-page.php:553 
+#: deprecated/addons-post-archive-page.php:561
+msgid "Title Design"
+msgstr ""
+
+#: template/template-woo-product.php:653 template/template-woo-product.php:1812
+msgid ""
+"Toggles pagination on. Use in conjunction with Number of Products to display"
+msgstr ""
+
+#: template/template-woo-product.php:766 template/template-woo-product.php:1904
+msgid "Top Rated"
+msgstr ""
+
+#: inc/aio-redux-core/config/config.php:273
+msgid "Unfilterd Upload"
+msgstr ""
+
+#: inc/aio-redux-core/config/config.php:266
+msgid "Uploads"
+msgstr ""
+
+#: template/template-woo-product.php:728 template/template-woo-product.php:870 
+#: template/template-woo-product.php:1866 
+#: template/template-woo-product.php:2008 
+#: deprecated/addons-post-archive-page.php:495
+msgid "Visible"
+msgstr ""
+
+#: template/global-layout-product.php:35
+msgid "Visualizza carrello"
+msgstr ""
+
+#: template/template-woo-product.php:686
+msgid "Will display products based on a comma-separated list of Post IDs."
+msgstr ""
+
+#: deprecated/addons-order-and-view-filtering.php:51
+msgid "Woo Filtering - Decrepated AIO"
+msgstr ""
+
+#: template/template-woo-product.php:1763
+msgid "WooCommerce Archive Product AIO"
+msgstr ""
+
+#: template/addons-woo-best-sellers-carousel.php:54
+msgid "Woocommerce Best Sellers Carousel AIO"
+msgstr ""
+
+#: template/addons-woo-on-sales-carousel.php:55
+msgid "Woocommerce On Sales Carousel AIO"
+msgstr ""
+
+#: template/template-woo-product.php:605
+msgid "WooCommerce Product AIO"
+msgstr ""
+
+#: template/addons-post-carousel.php:162
+msgid "Write taxonomy slug to filter"
+msgstr ""
+
+#: template/template-woo-product.php:657 template/template-woo-product.php:749 
+#: template/template-woo-product.php:760 template/template-woo-product.php:771 
+#: template/template-woo-product.php:892 
+#: template/template-woo-product.php:1050 
+#: template/template-woo-product.php:1208 
+#: template/template-woo-product.php:1337 
+#: template/template-woo-product.php:1561 
+#: template/template-woo-product.php:1573 
+#: template/template-woo-product.php:1816 
+#: template/template-woo-product.php:1887 
+#: template/template-woo-product.php:1898 
+#: template/template-woo-product.php:1909 
+#: template/template-woo-product.php:2030 
+#: template/template-woo-product.php:2185 
+#: template/template-woo-product.php:2340 
+#: template/template-woo-product.php:2468 
+#: template/template-woo-product.php:2687 
+#: template/template-woo-product.php:2699 
+#: template/addons-woo-on-sales-carousel.php:105 
+#: template/addons-woo-on-sales-carousel.php:116 
+#: template/addons-woo-on-sales-carousel.php:127 
+#: template/addons-woo-on-sales-carousel.php:138 
+#: template/addons-woo-on-sales-carousel.php:149 
+#: template/addons-woo-on-sales-carousel.php:194 
+#: template/addons-woo-on-sales-carousel.php:205 
+#: template/addons-woo-on-sales-carousel.php:216 
+#: template/addons-woo-on-sales-carousel.php:228 
+#: template/addons-woo-on-sales-carousel.php:239 
+#: template/addons-woo-on-sales-carousel.php:250 
+#: template/addons-post-carousel.php:154 template/addons-post-carousel.php:283 
+#: template/addons-post-carousel.php:321 template/addons-post-carousel.php:332 
+#: template/addons-post-carousel.php:343 template/addons-post-carousel.php:355 
+#: template/addons-post-carousel.php:390 template/addons-post-carousel.php:401 
+#: template/addons-post-carousel.php:420 template/addons-post-carousel.php:449 
+#: template/addons-post-carousel.php:460 
+#: template/addons-woo-best-sellers-carousel.php:104 
+#: template/addons-woo-best-sellers-carousel.php:115 
+#: template/addons-woo-best-sellers-carousel.php:126 
+#: template/addons-woo-best-sellers-carousel.php:137 
+#: template/addons-woo-best-sellers-carousel.php:148 
+#: template/addons-woo-best-sellers-carousel.php:193 
+#: template/addons-woo-best-sellers-carousel.php:204 
+#: template/addons-woo-best-sellers-carousel.php:215 
+#: template/addons-woo-best-sellers-carousel.php:227 
+#: template/addons-woo-best-sellers-carousel.php:238 
+#: template/addons-woo-best-sellers-carousel.php:249 
+#: deprecated/addons-post-archive-page.php:344 
+#: deprecated/addons-post-archive-page.php:365 
+#: deprecated/addons-post-archive-page.php:407
+msgid "Yes"
+msgstr ""
+
+#: template/addons-post-carousel.php:266
+msgid "Zoom In"
+msgstr ""
+
+#: template/addons-post-carousel.php:267
+msgid "Zoom Out"
+msgstr ""

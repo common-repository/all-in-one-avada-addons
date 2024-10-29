@@ -1,0 +1,83 @@
+.logo-aio-panel-options {
+    width: 100px;
+}
+#redux-header {
+    background-color: #fff !important;
+    border-radius: 15px 15px 0px 0px;
+}
+
+body .redux-container #redux-header .display_header {
+    margin: 0px 10px;
+}
+
+.redux-container {
+    border: 0px;
+    border-radius: 15px;
+}
+
+#redux-header .display_header span {
+    color: #114c82 !important;
+}
+
+.redux-form-wrapper {
+    background-color: #23282d;
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.redux-container {
+    overflow: visible;
+}
+
+.redux-sidebar {
+    background-color: #23282d;
+    border: none;
+}
+
+.redux-container #info_bar {
+    background-color: #fff;
+}
+
+#redux-footer {
+    background-color: #fff !important;
+}
+
+.redux-main #redux-sticky #info_bar {
+    height: 43px;
+}
+
+.redux-main .button {
+    margin: 7px 5px;
+}
+
+/* REMOVE ADMIN REDUX CONNECT MESSAGE*/
+#redux-connect-message {
+    display: none;
+}
+
+.dashicons-avada::before {
+    content: "\e936";
+    font-size: 16px;
+    font-family: "icomoon";
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+}
+
+.aio-header-dashboard {
+    width: 96%;
+    background-color: #fff;
+    margin: 25px 15px;
+    padding: 30px;
+    border-radius: 20px;
+    font-weight: 800;
+    font-size: 20px;
+    color: #114c82;
+    box-shadow: 2px 2px 5px #00000029;
+    display: flex;
+}
+.aio-dash-plugin-name {
+    margin: auto 30px;
+}

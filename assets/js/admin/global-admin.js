@@ -1,0 +1,1 @@
+document.getElementById('redux-connect-message').remove();
